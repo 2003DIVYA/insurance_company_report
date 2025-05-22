@@ -29,4 +29,4 @@ Pleased to share insights from my recent Power BI project for Prism Insurance Pv
 
 This dashboard empowers real-time decisions, streamlines claim assessments, and provides granular insights into customer segments.
 
-hashtag#PowerBI hashtag#DataAnalytics hashtag#InsuranceTech hashtag#BusinessIntelligence hashtag#DashboardDesign hashtag#DataDriven
+
